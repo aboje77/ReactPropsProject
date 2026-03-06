@@ -1,0 +1,6 @@
+.echo{
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    background-color: lightblue;
+}
