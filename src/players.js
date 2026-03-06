@@ -68,7 +68,7 @@ export default [
         // Image encoded in Base64 format.
         // Instead of linking to an online image,
         // the image data is embedded directly inside the code.
-        imageUrl: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/..."
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoJNhD0puk2hWHBXrxBsPL6z3obRiyrNvkQ&s"
     }, 
 
     // Fourth player object
@@ -110,7 +110,7 @@ export default [
         age: 22,
 
         // Base64 encoded image for the player
-        imageUrl: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/..."
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgpk1Tvu7KFDT925ks5aKupoKuaaLN2Wiwcw&s"
     }, 
 
     // Sixth player object
@@ -131,7 +131,7 @@ export default [
         age: 20,
 
         // Image URL should be placed here to display the player's photo
-        imageUrl: ""
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIfiPZy0XqjaWSqXkau79fMQUHQxTAGbT3Ew&s"
     }
 
 ];
